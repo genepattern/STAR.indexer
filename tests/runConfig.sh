@@ -11,6 +11,6 @@ JOB_QUEUE=TedTest
 S3_ROOT=s3://moduleiotest
 WORKING_DIR=$PWD/job_52345
 
-DOCKER_CONTAINER=genepattern/star.indexer:v0.46
+DOCKER_CONTAINER=genepattern/star.indexer:v0.48
 
 
