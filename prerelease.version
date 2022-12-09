@@ -1,3 +1,5 @@
+#updated after building 0.47
+#Fri, 09 Dec 2022 16:10:06 -0500
 #updated after building 0.46
 #Fri, 09 Dec 2022 10:09:00 -0500
 #updated after building 0.45
@@ -6,4 +8,4 @@
 #Mon, 26 Mar 2018 12:10:56 -0400
 #updated after building 0.43
 #Mon, 26 Mar 2018 10:41:19 -0400
-prerelease.number=47
+prerelease.number=48
