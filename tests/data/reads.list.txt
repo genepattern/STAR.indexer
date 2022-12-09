@@ -1,0 +1,2 @@
+/Users/liefeld/GenePattern/gp_dev/modules/STAR.indexer/tests/data/reads_1.fa
+/Users/liefeld/GenePattern/gp_dev/modules/STAR.indexer/tests/data/reads_2.fa
