@@ -8,6 +8,6 @@ name: testStarIndexer.1.sam
 module: STAR.indexer
 params: 
     "fasta.file": https://datasets.genepattern.org/data/test_data/Hisat2/reads_1.fa 
-    "index.dir": Genome
+    "output.file": Genome
 assertions:
     jobStatus: success

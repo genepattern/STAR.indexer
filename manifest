@@ -125,4 +125,4 @@ quality=production
 taskDoc=http://software.broadinstitute.org/cancer/software/genepattern/modules/docs/STAR.indexer/1
 taskType=RNA-seq
 userid=guy.bottu@vib.be
-version=Update to STAR 2.7.10b
+version=Rename index.dir parameter to output.file

@@ -2,7 +2,7 @@
   parameters:["fasta.file",
               "GTF.file",
               "tab.file",
-              "index.dir"
+              "output.file"
              ]
  },{name:"Customization of indexing process",
     parameters:["overhang",
